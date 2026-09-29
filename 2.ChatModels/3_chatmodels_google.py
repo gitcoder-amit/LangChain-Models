@@ -1,3 +1,5 @@
+# this is to integrate google gemini model with langchain.
+
 from langchain_google_genai import ChatGoogleGenerativeAI # it inherit BaseChatModel
 from dotenv import load_dotenv
 
